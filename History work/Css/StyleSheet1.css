@@ -1,0 +1,59 @@
+﻿body {
+}
+.M1{
+    color:dimgrey;
+    font:bold;
+    font-size: 35px;
+}
+.M2{
+    margin-left: 80px;
+}
+.Buttons {
+    width: 100%;
+    margin: 25px;
+text-align:center;
+text-decoration:double;
+color:black;
+border:solid;
+border-color:lightgray;
+font-size: 60px;
+
+}
+.Buttons:hover{
+    color:dimgrey;
+}
+.H1 {
+    background: linear-gradient(to bottom, #e6f7ff, #ccf2ff); /* Adjust colors as needed */
+    height: 15vh;
+    display: flex;
+    font-size: 23px;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Helvetica', sans-serif; /* Change font if desired */
+    color: blue; /* Set text color */
+}
+
+.H2 {
+    background: linear-gradient(to bottom, lightblue, blue); /* Adjust colors as needed */
+    /*background: linear-gradient(to bottom, #e6f7ff, #ccf2ff);*/ /* Adjust colors as needed */
+    height: 15vh;
+    display: flex;
+    font-size: 30px;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Helvetica', sans-serif; /* Change font if desired */
+    color: black;
+    /*color: blue;*/ /* Set text color */
+}
+
+.H3{
+    background: linear-gradient(to bottom, #e6f7ff, #ccf2ff); /* Adjust colors as needed */
+    height: 5vh;
+    font-size:45px;
+    display: flex;
+    margin:5px;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Helvetica', sans-serif; /* Change font if desired */
+    color: blue; /* Set text color */
+}
